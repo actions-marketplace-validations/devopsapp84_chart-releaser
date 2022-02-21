@@ -1,4 +1,4 @@
-name: "DevOpsApp84 Chart Releaser"
+name: "JK Chart Releaser"
 description: "Host a Helm charts repo on GitHub Pages"
 author: "Janusz Kujawa"
 branding:
